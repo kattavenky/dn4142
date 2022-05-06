@@ -5,3 +5,10 @@ E:\INTADM-041042\6MAY\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.Assem
 E:\INTADM-041042\6MAY\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 E:\INTADM-041042\6MAY\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 E:\INTADM-041042\6MAY\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\SAM2\dn4142\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\SAM2\dn4142\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\SAM2\dn4142\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\SAM2\dn4142\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\SAM2\dn4142\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\SAM2\dn4142\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\SAM2\dn4142\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
